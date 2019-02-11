@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "867956846399",
+    "firebase_url": "https://procheque-4ccb2.firebaseio.com",
+    "project_id": "procheque-4ccb2",
+    "storage_bucket": "procheque-4ccb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867956846399:android:fc9102a82ce95b80",
+        "android_client_info": {
+          "package_name": "com.example.procheque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867956846399-4953pm39kg5t4uvsge0cermt8sdre0lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.procheque",
+            "certificate_hash": "c5061422c3fdbee3c562121fd17a31433dd3e062"
+          }
+        },
+        {
+          "client_id": "867956846399-1em95der9su9i3b9c2961emsmbb8tf9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.procheque",
+            "certificate_hash": "d7f0ed8b0396e7b4f31ed39d621d4abfc9ea24c8"
+          }
+        },
+        {
+          "client_id": "867956846399-hkvpeh3aqpfrdgoe7b3onn01c0jsfpjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeGCS9L7KVpczQ2VjASa-XTbe2sk4qc_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867956846399-hkvpeh3aqpfrdgoe7b3onn01c0jsfpjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
